@@ -1,10 +1,3 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown` и `LaTeX` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/03_promising_telecom_tariff/Girya_promising_telecom_tariff.ipynb)**
-
----
-
 # Эффективность нового мерчандайзинга / Оффлайн A/B-тест
 
 `pandas`  `numpy`  `scipy` `matplotlib`  `seaborn` `postgresql`
@@ -59,10 +52,3 @@
 </ol>
 </p>
 </div>
-
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown` и `LaTeX` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/03_promising_telecom_tariff/Girya_promising_telecom_tariff.ipynb)**
-
----
