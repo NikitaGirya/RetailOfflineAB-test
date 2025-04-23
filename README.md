@@ -2,7 +2,6 @@
 
 `pandas`  `numpy`  `scipy` `matplotlib`  `seaborn` `postgresql`
 
----
 
 <p align="center">
   <img src="https://oborot.ru/wp-content/uploads/2022/03/lerua-merlen-1-1024x681.jpg" width=800 height=500 />
