@@ -1,6 +1,6 @@
 # Эффективность нового мерчандайзинга / Оффлайн A/B-тест
 
-`pandas`  `numpy`  `scipy` `matplotlib`  `seaborn` `postgresql`
+`pandas`  `numpy`  `scipy` `matplotlib`  `seaborn` `greenplum`
 
 
 <p align="center">
